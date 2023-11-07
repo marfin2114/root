@@ -3,8 +3,8 @@
 
 Таблица адресации
 
-![image](https://github.com/marfin2114/root/assets/148771471/1be7aad9-24a0-4133-81f6-aed207ca95c0)
 
+<img width="852" alt="Снимок экрана 2023-11-07 в 15 50 56" src="https://github.com/marfin2114/root/assets/148771471/35741a39-f238-4db8-a39e-33244fe06066">
 
 ISP
 Добавление интерфейсов
